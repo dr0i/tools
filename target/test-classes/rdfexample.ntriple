@@ -1,0 +1,700 @@
+<http://lobid.org/zvdd/hbz/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/1> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/1> <http://iflastandards.info/ns/isbd/elements/P1004> "Information des Sekretariats [Ersatz zum Hauptsachtitel]" .
+<http://lobid.org/zvdd/hbz/1> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/1> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=2&ID_0=2&ID_1=13&ID_2=732&ID_3=35032> .
+<http://lobid.org/zvdd/hbz/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/2> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/2> <http://iflastandards.info/ns/isbd/elements/P1004> "Einleitende Worte [Ersatz zum Hauptsachtitel]" .
+<http://lobid.org/zvdd/hbz/2> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/2> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=2&ID_0=2&ID_1=13&ID_2=734&ID_3=35357> .
+<http://lobid.org/zvdd/hbz/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/3> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/3> <http://iflastandards.info/ns/isbd/elements/P1004> "Agitation im Sinne des Baseler Programms [Ersatz zum Hauptsachtitel]" .
+<http://lobid.org/zvdd/hbz/3> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/3> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=2&ID_0=2&ID_1=13&ID_2=734&ID_3=35363> .
+<http://lobid.org/zvdd/hbz/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/4> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/4> <http://iflastandards.info/ns/isbd/elements/P1004> "Ankündigung [Ersatz zum Hauptsachtitel]" .
+<http://lobid.org/zvdd/hbz/4> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/4> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27356&ID_3=78917> .
+<http://lobid.org/zvdd/hbz/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/5> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/5> <http://iflastandards.info/ns/isbd/elements/P1004> "Restaurant Grünspecht in Nürnberg [Ersatz zum Hauptsachtitel]" .
+<http://lobid.org/zvdd/hbz/5> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/5> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27357&ID_3=78969> .
+<http://lobid.org/zvdd/hbz/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/6> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/6> <http://iflastandards.info/ns/isbd/elements/P1004> "\"Neue Stuttgarter\", Lebensversicherungsbank A.-G." .
+<http://lobid.org/zvdd/hbz/6> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/6> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27357&ID_3=78970> .
+<http://lobid.org/zvdd/hbz/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/7> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/7> <http://iflastandards.info/ns/isbd/elements/P1004> "7. Kriegs-Anleihe" .
+<http://lobid.org/zvdd/hbz/7> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/7> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=17&ID_0=17&ID_1=341&ID_2=6748&ID_3=44238> .
+<http://lobid.org/zvdd/hbz/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/8> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/8> <http://purl.org/dc/elements/1.1/creator> "Hezner" .
+<http://lobid.org/zvdd/hbz/8> <http://iflastandards.info/ns/isbd/elements/P1004> "Abdruck" .
+<http://lobid.org/zvdd/hbz/8> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/8> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=985&ID_2=27418&ID_3=82072> .
+<http://lobid.org/zvdd/hbz/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/9> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/9> <http://purl.org/dc/elements/1.1/creator> "Goldenberger" .
+<http://lobid.org/zvdd/hbz/9> <http://iflastandards.info/ns/isbd/elements/P1004> "Abdruck" .
+<http://lobid.org/zvdd/hbz/9> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/9> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=986&ID_2=27445&ID_3=83568> .
+<http://lobid.org/zvdd/hbz/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/10> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/10> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/10> <http://iflastandards.info/ns/isbd/elements/P1004> "Adolf Beer (St. Ingbert)" .
+<http://lobid.org/zvdd/hbz/10> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/10> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27364&ID_3=79391> .
+<http://lobid.org/zvdd/hbz/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/11> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/11> <http://iflastandards.info/ns/isbd/elements/P1004> "Am Freitag, den 29. Mai 1925" .
+<http://lobid.org/zvdd/hbz/11> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/11> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27348&ID_3=78670> .
+<http://lobid.org/zvdd/hbz/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/12> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/12> <http://purl.org/dc/elements/1.1/creator> "Straus, E." .
+<http://lobid.org/zvdd/hbz/12> <http://iflastandards.info/ns/isbd/elements/P1004> "An die dem Verband angeschlossenen Kultusgemeinden" .
+<http://lobid.org/zvdd/hbz/12> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/12> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27347&ID_3=78632> .
+<http://lobid.org/zvdd/hbz/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/13> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/13> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/13> <http://iflastandards.info/ns/isbd/elements/P1004> "An die Distriktsausschüsse" .
+<http://lobid.org/zvdd/hbz/13> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/13> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27347&ID_3=78631> .
+<http://lobid.org/zvdd/hbz/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/14> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/14> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/14> <http://iflastandards.info/ns/isbd/elements/P1004> "An die Mitglieder des Rats und der Tagung" .
+<http://lobid.org/zvdd/hbz/14> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/14> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27371&ID_3=79929> .
+<http://lobid.org/zvdd/hbz/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/15> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/15> <http://iflastandards.info/ns/isbd/elements/P1004> "An die Vertrauensmänner und Vereinsvorstände!" .
+<http://lobid.org/zvdd/hbz/15> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/15> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=2&ID_0=2&ID_1=13&ID_2=734&ID_3=35360> .
+<http://lobid.org/zvdd/hbz/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/16> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/16> <http://iflastandards.info/ns/isbd/elements/P1004> "An die Vertrauensmänner und Vereinsvorstände!" .
+<http://lobid.org/zvdd/hbz/16> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/16> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=2&ID_0=2&ID_1=13&ID_2=732&ID_3=35043> .
+<http://lobid.org/zvdd/hbz/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/17> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/17> <http://iflastandards.info/ns/isbd/elements/P1004> "An die zionistischen Vereine!" .
+<http://lobid.org/zvdd/hbz/17> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/17> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=2&ID_0=2&ID_1=13&ID_2=734&ID_3=35373> .
+<http://lobid.org/zvdd/hbz/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/18> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/18> <http://purl.org/dc/elements/1.1/creator> "Stoll" .
+<http://lobid.org/zvdd/hbz/18> <http://iflastandards.info/ns/isbd/elements/P1004> "Antrag auf Anstellung von Bezirks- und Wanderlehrern auf Kosten des Verbandes bayer. isr. Gemeinden" .
+<http://lobid.org/zvdd/hbz/18> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/18> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27346&ID_3=78608> .
+<http://lobid.org/zvdd/hbz/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/19> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/19> <http://iflastandards.info/ns/isbd/elements/P1004> "Anträge zur Änderung der vorläufigen Verfassung" .
+<http://lobid.org/zvdd/hbz/19> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/19> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27346&ID_3=78602> .
+<http://lobid.org/zvdd/hbz/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/20> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/20> <http://purl.org/dc/elements/1.1/creator> "j. z." .
+<http://lobid.org/zvdd/hbz/20> <http://iflastandards.info/ns/isbd/elements/P1004> "Argentinien" .
+<http://lobid.org/zvdd/hbz/20> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/20> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=2&ID_0=2&ID_1=13&ID_2=734&ID_3=35369> .
+<http://lobid.org/zvdd/hbz/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/21> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/21> <http://iflastandards.info/ns/isbd/elements/P1004> "Aufruf!" .
+<http://lobid.org/zvdd/hbz/21> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/21> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27355&ID_3=78885> .
+<http://lobid.org/zvdd/hbz/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/22> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/22> <http://iflastandards.info/ns/isbd/elements/P1004> "Ausstellung eines orthodoxen rabbinischen Beamten (Dajan)" .
+<http://lobid.org/zvdd/hbz/22> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/22> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=984&ID_2=27384&ID_3=80766> .
+<http://lobid.org/zvdd/hbz/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/23> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/23> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritt" .
+<http://lobid.org/zvdd/hbz/23> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/23> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=984&ID_2=27391&ID_3=80972> .
+<http://lobid.org/zvdd/hbz/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/24> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/24> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritt aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/24> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/24> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27370&ID_3=79853> .
+<http://lobid.org/zvdd/hbz/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/25> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/25> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritt aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/25> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/25> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27359&ID_3=79142> .
+<http://lobid.org/zvdd/hbz/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/26> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/26> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritte aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/26> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/26> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27358&ID_3=79030> .
+<http://lobid.org/zvdd/hbz/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/27> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/27> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritte aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/27> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/27> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27357&ID_3=78966> .
+<http://lobid.org/zvdd/hbz/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/28> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/28> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritte aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/28> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/28> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27366&ID_3=79512> .
+<http://lobid.org/zvdd/hbz/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/29> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/29> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritte aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/29> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/29> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27367&ID_3=79574> .
+<http://lobid.org/zvdd/hbz/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/30> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/30> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritte aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/30> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/30> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27360&ID_3=79191> .
+<http://lobid.org/zvdd/hbz/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/31> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/31> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritte aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/31> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/31> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27347&ID_3=78635> .
+<http://lobid.org/zvdd/hbz/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/32> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/32> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritte aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/32> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/32> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27349&ID_3=78699> .
+<http://lobid.org/zvdd/hbz/33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/33> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/33> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritte aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/33> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/33> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27351&ID_3=78768> .
+<http://lobid.org/zvdd/hbz/34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/34> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/34> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritte aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/34> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/34> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27369&ID_3=79788> .
+<http://lobid.org/zvdd/hbz/35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/35> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/35> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritte aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/35> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/35> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27376&ID_3=80251> .
+<http://lobid.org/zvdd/hbz/36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/36> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/36> <http://iflastandards.info/ns/isbd/elements/P1004> "Austritte aus dem Judentum" .
+<http://lobid.org/zvdd/hbz/36> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/36> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=987&ID_2=27453&ID_3=84068> .
+<http://lobid.org/zvdd/hbz/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/37> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/37> <http://iflastandards.info/ns/isbd/elements/P1004> "Baltimore" .
+<http://lobid.org/zvdd/hbz/37> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/37> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=2&ID_0=2&ID_1=13&ID_2=734&ID_3=35365> .
+<http://lobid.org/zvdd/hbz/38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/38> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/38> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar Mizwah" .
+<http://lobid.org/zvdd/hbz/38> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/38> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=984&ID_2=27394&ID_3=81048> .
+<http://lobid.org/zvdd/hbz/39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/39> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/39> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar Mizwah-Feier" .
+<http://lobid.org/zvdd/hbz/39> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/39> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27363&ID_3=79345> .
+<http://lobid.org/zvdd/hbz/40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/40> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/40> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar Mizwah-Feier" .
+<http://lobid.org/zvdd/hbz/40> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/40> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27366&ID_3=79509> .
+<http://lobid.org/zvdd/hbz/41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/41> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/41> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar Mizwah-Feier" .
+<http://lobid.org/zvdd/hbz/41> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/41> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27357&ID_3=78964> .
+<http://lobid.org/zvdd/hbz/42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/42> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/42> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar Mizwah-Feier" .
+<http://lobid.org/zvdd/hbz/42> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/42> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27356&ID_3=78914> .
+<http://lobid.org/zvdd/hbz/43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/43> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/43> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar Mizwah-Feier" .
+<http://lobid.org/zvdd/hbz/43> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/43> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27358&ID_3=79027> .
+<http://lobid.org/zvdd/hbz/44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/44> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/44> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar Mizwah-Feier" .
+<http://lobid.org/zvdd/hbz/44> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/44> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27359&ID_3=79139> .
+<http://lobid.org/zvdd/hbz/45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/45> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/45> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar Mizwah-Feiern" .
+<http://lobid.org/zvdd/hbz/45> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/45> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27345&ID_3=78584> .
+<http://lobid.org/zvdd/hbz/46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/46> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/46> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar Mizwah-Feiern" .
+<http://lobid.org/zvdd/hbz/46> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/46> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27350&ID_3=78720> .
+<http://lobid.org/zvdd/hbz/47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/47> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/47> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar Mizwah-Feiern" .
+<http://lobid.org/zvdd/hbz/47> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/47> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27349&ID_3=78696> .
+<http://lobid.org/zvdd/hbz/48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/48> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/48> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar Mizwah-Feiern" .
+<http://lobid.org/zvdd/hbz/48> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/48> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27348&ID_3=78669> .
+<http://lobid.org/zvdd/hbz/49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/49> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/49> <http://iflastandards.info/ns/isbd/elements/P1004> "Bargeld zu Hause ansammeln und liegen zu lassen ..." .
+<http://lobid.org/zvdd/hbz/49> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/49> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=17&ID_0=17&ID_1=341&ID_2=6738&ID_3=44101> .
+<http://lobid.org/zvdd/hbz/50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/50> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/50> <http://iflastandards.info/ns/isbd/elements/P1004> "Barmizwah" .
+<http://lobid.org/zvdd/hbz/50> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/50> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=985&ID_2=27418&ID_3=82075> .
+<http://lobid.org/zvdd/hbz/51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/51> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/51> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah" .
+<http://lobid.org/zvdd/hbz/51> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/51> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=984&ID_2=27393&ID_3=81033> .
+<http://lobid.org/zvdd/hbz/52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/52> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/52> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah" .
+<http://lobid.org/zvdd/hbz/52> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/52> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=984&ID_2=27393&ID_3=81030> .
+<http://lobid.org/zvdd/hbz/53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/53> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/53> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah" .
+<http://lobid.org/zvdd/hbz/53> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/53> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=984&ID_2=27388&ID_3=80871> .
+<http://lobid.org/zvdd/hbz/54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/54> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/54> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah" .
+<http://lobid.org/zvdd/hbz/54> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/54> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=984&ID_2=27381&ID_3=80624> .
+<http://lobid.org/zvdd/hbz/55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/55> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/55> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah" .
+<http://lobid.org/zvdd/hbz/55> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/55> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27376&ID_3=80254> .
+<http://lobid.org/zvdd/hbz/56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/56> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/56> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah" .
+<http://lobid.org/zvdd/hbz/56> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/56> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27372&ID_3=80035> .
+<http://lobid.org/zvdd/hbz/57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/57> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/57> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah" .
+<http://lobid.org/zvdd/hbz/57> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/57> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27369&ID_3=79786> .
+<http://lobid.org/zvdd/hbz/58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/58> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/58> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah" .
+<http://lobid.org/zvdd/hbz/58> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/58> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27370&ID_3=79850> .
+<http://lobid.org/zvdd/hbz/59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/59> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/59> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah" .
+<http://lobid.org/zvdd/hbz/59> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/59> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27371&ID_3=79969> .
+<http://lobid.org/zvdd/hbz/60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/60> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/60> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah" .
+<http://lobid.org/zvdd/hbz/60> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/60> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27367&ID_3=79571> .
+<http://lobid.org/zvdd/hbz/61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/61> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/61> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah-Feier" .
+<http://lobid.org/zvdd/hbz/61> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/61> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27364&ID_3=79385> .
+<http://lobid.org/zvdd/hbz/62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/62> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/62> <http://iflastandards.info/ns/isbd/elements/P1004> "Barmizwah-Feier" .
+<http://lobid.org/zvdd/hbz/62> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/62> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27362&ID_3=79307> .
+<http://lobid.org/zvdd/hbz/63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/63> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/63> <http://iflastandards.info/ns/isbd/elements/P1004> "Barmizwah-Feier" .
+<http://lobid.org/zvdd/hbz/63> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/63> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27355&ID_3=78884> .
+<http://lobid.org/zvdd/hbz/64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/64> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/64> <http://iflastandards.info/ns/isbd/elements/P1004> "Barmizwah-Feier" .
+<http://lobid.org/zvdd/hbz/64> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/64> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27354&ID_3=78847> .
+<http://lobid.org/zvdd/hbz/65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/65> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/65> <http://iflastandards.info/ns/isbd/elements/P1004> "Barmizwah-Feier" .
+<http://lobid.org/zvdd/hbz/65> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/65> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27351&ID_3=78765> .
+<http://lobid.org/zvdd/hbz/66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/66> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/66> <http://iflastandards.info/ns/isbd/elements/P1004> "Barmizwah-Feier" .
+<http://lobid.org/zvdd/hbz/66> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/66> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27353&ID_3=78814> .
+<http://lobid.org/zvdd/hbz/67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/67> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/67> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah-Feiern" .
+<http://lobid.org/zvdd/hbz/67> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/67> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27360&ID_3=79193> .
+<http://lobid.org/zvdd/hbz/68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/68> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/68> <http://iflastandards.info/ns/isbd/elements/P1004> "Bar-Mizwah-Feiern" .
+<http://lobid.org/zvdd/hbz/68> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/68> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27361&ID_3=79227> .
+<http://lobid.org/zvdd/hbz/69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/69> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/69> <http://iflastandards.info/ns/isbd/elements/P1004> "Beamtenbezüge am 1. Dez. 1924" .
+<http://lobid.org/zvdd/hbz/69> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/69> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27346&ID_3=78603> .
+<http://lobid.org/zvdd/hbz/70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/70> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/70> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/70> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/70> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27361&ID_3=79226> .
+<http://lobid.org/zvdd/hbz/71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/71> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/71> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/71> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/71> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27362&ID_3=79270> .
+<http://lobid.org/zvdd/hbz/72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/72> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/72> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/72> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/72> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27363&ID_3=79344> .
+<http://lobid.org/zvdd/hbz/73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/73> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/73> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/73> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/73> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27364&ID_3=79387> .
+<http://lobid.org/zvdd/hbz/74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/74> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/74> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/74> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/74> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27366&ID_3=79514> .
+<http://lobid.org/zvdd/hbz/75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/75> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/75> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/75> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/75> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27354&ID_3=78845> .
+<http://lobid.org/zvdd/hbz/76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/76> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/76> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/76> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/76> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27355&ID_3=78882> .
+<http://lobid.org/zvdd/hbz/77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/77> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/77> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/77> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/77> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27357&ID_3=78967> .
+<http://lobid.org/zvdd/hbz/78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/78> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/78> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/78> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/78> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27356&ID_3=78916> .
+<http://lobid.org/zvdd/hbz/79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/79> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/79> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/79> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/79> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27359&ID_3=79140> .
+<http://lobid.org/zvdd/hbz/80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/80> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/80> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/80> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/80> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27360&ID_3=79190> .
+<http://lobid.org/zvdd/hbz/81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/81> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/81> <http://iflastandards.info/ns/isbd/elements/P1004> "Beerdigungen und Sterbefälle" .
+<http://lobid.org/zvdd/hbz/81> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/81> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27358&ID_3=79028> .
+<http://lobid.org/zvdd/hbz/82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/82> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/82> <http://purl.org/dc/elements/1.1/creator> "Straus" .
+<http://lobid.org/zvdd/hbz/82> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/82> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/82> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27359&ID_3=79078> .
+<http://lobid.org/zvdd/hbz/83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/83> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/83> <http://purl.org/dc/elements/1.1/creator> "Flaschner" .
+<http://lobid.org/zvdd/hbz/83> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/83> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/83> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27360&ID_3=79182> .
+<http://lobid.org/zvdd/hbz/84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/84> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/84> <http://purl.org/dc/elements/1.1/creator> "Straus, E." .
+<http://lobid.org/zvdd/hbz/84> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/84> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/84> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27356&ID_3=78909> .
+<http://lobid.org/zvdd/hbz/85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/85> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/85> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/85> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/85> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/85> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27356&ID_3=78910> .
+<http://lobid.org/zvdd/hbz/86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/86> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/86> <http://purl.org/dc/elements/1.1/creator> "Haas" .
+<http://lobid.org/zvdd/hbz/86> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/86> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/86> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27356&ID_3=78911> .
+<http://lobid.org/zvdd/hbz/87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/87> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/87> <http://purl.org/dc/elements/1.1/creator> "Straus, E." .
+<http://lobid.org/zvdd/hbz/87> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/87> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/87> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27355&ID_3=78879> .
+<http://lobid.org/zvdd/hbz/88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/88> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/88> <http://purl.org/dc/elements/1.1/creator> "Landauer, Albert" .
+<http://lobid.org/zvdd/hbz/88> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/88> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/88> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27355&ID_3=78880> .
+<http://lobid.org/zvdd/hbz/89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/89> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/89> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/89> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/89> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/89> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27368&ID_3=79635> .
+<http://lobid.org/zvdd/hbz/90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/90> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/90> <http://purl.org/dc/elements/1.1/creator> "Flaschner" .
+<http://lobid.org/zvdd/hbz/90> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/90> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/90> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27368&ID_3=79636> .
+<http://lobid.org/zvdd/hbz/91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/91> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/91> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/91> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/91> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/91> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27368&ID_3=79638> .
+<http://lobid.org/zvdd/hbz/92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/92> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/92> <http://purl.org/dc/elements/1.1/creator> "Flaschner" .
+<http://lobid.org/zvdd/hbz/92> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/92> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/92> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27363&ID_3=79342> .
+<http://lobid.org/zvdd/hbz/93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/93> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/93> <http://purl.org/dc/elements/1.1/creator> "Flaschner" .
+<http://lobid.org/zvdd/hbz/93> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/93> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/93> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27363&ID_3=79343> .
+<http://lobid.org/zvdd/hbz/94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/94> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/94> <http://purl.org/dc/elements/1.1/creator> "Straus, E." .
+<http://lobid.org/zvdd/hbz/94> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/94> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/94> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27364&ID_3=79384> .
+<http://lobid.org/zvdd/hbz/95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/95> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/95> <http://purl.org/dc/elements/1.1/creator> "Flaschner" .
+<http://lobid.org/zvdd/hbz/95> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/95> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/95> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=982&ID_2=27361&ID_3=79223> .
+<http://lobid.org/zvdd/hbz/96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/96> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/96> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/96> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/96> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27353&ID_3=78811> .
+<http://lobid.org/zvdd/hbz/97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/97> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/97> <http://purl.org/dc/elements/1.1/creator> "Werner" .
+<http://lobid.org/zvdd/hbz/97> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/97> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/97> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27351&ID_3=78771> .
+<http://lobid.org/zvdd/hbz/98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/98> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/98> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/98> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/98> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/98> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27352&ID_3=78786> .
+<http://lobid.org/zvdd/hbz/99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/99> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/99> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/99> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/99> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27352&ID_3=78787> .
+<http://lobid.org/zvdd/hbz/100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/100> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/100> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/100> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/100> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27351&ID_3=78761> .
+<http://lobid.org/zvdd/hbz/101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/101> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/101> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/101> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/101> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27351&ID_3=78762> .
+<http://lobid.org/zvdd/hbz/102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/102> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/102> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/102> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/102> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=981&ID_2=27351&ID_3=78763> .
+<http://lobid.org/zvdd/hbz/103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/103> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/103> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/103> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/103> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/103> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27371&ID_3=79942> .
+<http://lobid.org/zvdd/hbz/104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/104> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/104> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/104> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/104> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/104> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27371&ID_3=79943> .
+<http://lobid.org/zvdd/hbz/105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/105> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/105> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/105> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/105> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/105> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27371&ID_3=79934> .
+<http://lobid.org/zvdd/hbz/106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/106> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/106> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/106> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/106> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/106> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27371&ID_3=79936> .
+<http://lobid.org/zvdd/hbz/107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/107> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/107> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/107> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/107> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/107> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27371&ID_3=79937> .
+<http://lobid.org/zvdd/hbz/108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/108> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/108> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/108> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/108> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/108> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27371&ID_3=79939> .
+<http://lobid.org/zvdd/hbz/109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/109> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/109> <http://purl.org/dc/elements/1.1/creator> "Straus, Elias" .
+<http://lobid.org/zvdd/hbz/109> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/109> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/109> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27371&ID_3=79947> .
+<http://lobid.org/zvdd/hbz/110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/110> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/110> <http://purl.org/dc/elements/1.1/creator> "Straus, Elias" .
+<http://lobid.org/zvdd/hbz/110> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/110> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/110> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27371&ID_3=79948> .
+<http://lobid.org/zvdd/hbz/111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://lobid.org/zvdd/hbz/111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/frbr/core#Manifestation> .
+<http://lobid.org/zvdd/hbz/111> <http://www.w3.org/2004/02/skos/core#Concept> <http://iflastandards.info/ns/isbd/terms/mediatype/T1010> .
+<http://lobid.org/zvdd/hbz/111> <http://purl.org/dc/elements/1.1/creator> "Neumeyer" .
+<http://lobid.org/zvdd/hbz/111> <http://iflastandards.info/ns/isbd/elements/P1004> "Bekanntmachung" .
+<http://lobid.org/zvdd/hbz/111> <http://iflastandards.info/ns/isbd/elements/P1017> "RWTH Aachen; Universitätsbibliothek Johann Christian Senckenberg Frankfurt a. M.; Bibliothek Germania Judaica Köln" .
+<http://lobid.org/zvdd/hbz/111> <http://lobid.org/vocab/lobid#fulltextOnline> <http://www.compactmemory.de/index_p.aspx?tzpid=68&ID_0=68&ID_1=983&ID_2=27369&ID_3=79783> .
+<http://lobid.org/zvdd/hbz/112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
